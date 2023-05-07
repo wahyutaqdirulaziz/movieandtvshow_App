@@ -29,7 +29,7 @@ A movie app made in Flutter with  BLoC, Hive and the movie db API.
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/wahyutaqdirulaziz/movieandtvshow_App.git
-cd flutter-movie-app
+cd movieandtvshow_App
 ```
 ### 2. Run pub get
 ```bash
