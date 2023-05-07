@@ -16,12 +16,12 @@ A movie app made in Flutter with  BLoC, Hive and the movie db API.
 
 ## Screenshots
 <p>
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/01.jpeg" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/02.jpeg" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/03.jpeg" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/04.jpeg" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/05.jpeg" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/06.jpeg" width="250" />
+  <img src="https://github.com/wahyutaqdirulaziz/movieandtvshow_App/blob/main/screenshots/01.jpeg" width="250" />
+  <img src="https://github.com/wahyutaqdirulaziz/movieandtvshow_App/blob/main/screenshots/02.jpeg" width="250" />
+  <img src="https://github.com/wahyutaqdirulaziz/movieandtvshow_App/blob/main/screenshots/03.jpeg" width="250" />
+  <img src="https://github.com/wahyutaqdirulaziz/movieandtvshow_App/blob/main/screenshots/04.jpeg" width="250" />
+  <img src="https://github.com/wahyutaqdirulaziz/movieandtvshow_App/blob/main/screenshots/05.jpeg" width="250" />
+  <img src="https://github.com/wahyutaqdirulaziz/movieandtvshow_App/blob/main/screenshots/06.jpeg" width="250" />
 
 </p>
 
