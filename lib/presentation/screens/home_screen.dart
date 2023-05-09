@@ -649,7 +649,7 @@ class TvshowWidget extends StatelessWidget {
                                               Colors.black.withOpacity(0.4),
                                               BlendMode.srcOver),
                                           image: NetworkImage(
-                                              "${ConstantHelper.baseBackdropUrl}${state.tvdata.results![index + 8].backdropPath!}"),
+                                              "${ConstantHelper.baseBackdropUrl}${state.tvdata.results![index].backdropPath!}"),
                                           fit: BoxFit.cover,
                                         ),
                                       ),
@@ -677,19 +677,19 @@ class TvshowWidget extends StatelessWidget {
                                               CrossAxisAlignment.start,
                                           children: [
                                             Text(
-                                                state.tvdata.results![index + 8]
+                                                state.tvdata.results![index]
                                                     .name!,
-                                                style:
-                                                    TextStyleCustom.buttonInter
-                                                        .copyWith(
-                                                            color: ColorConstant
-                                                                .kWhiteColor,
-                                                            fontWeight: bold)),
+                                                style: TextStyleCustom
+                                                    .buttonInter
+                                                    .copyWith(
+                                                        color: ColorConstant
+                                                            .kWhiteColor,
+                                                        fontWeight: bold)),
                                             const SizedBox(
                                               height: 5,
                                             ),
                                             Text(
-                                                state.tvdata.results![index + 8]
+                                                state.tvdata.results![index]
                                                     .overview!,
                                                 maxLines: 3,
                                                 overflow: TextOverflow.ellipsis,
